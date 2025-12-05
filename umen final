@@ -1,0 +1,10 @@
+[33m5be80c6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Merge: Sprint 1 completado - Módulo registro y autenticación
+[33m217136f[m[33m ([m[1;32msprint-1-desarrollo[m[33m)[m docs: 📄 Informe final del Sprint 1 completado
+[33m09f0cdb[m feat: 🎨 Componente Registro completo con validaciones y estado
+[33m33f3b60[m chore: 📦 Dependencias actualizadas para backend
+[33m305e72a[m feat: 🚀 App.js configurado con rutas y middlewares
+[33m53038da[m feat: 🔒 Sistema login con JWT y bloqueo por 3 intentos fallidos
+[33mb845342[m feat: 📝 Endpoint registro con validación de edad y generación automática de contraseña
+[33m8b722b6[m feat: 👤 Modelo Usuario completo con validaciones de edad y campos de seguridad
+[33ma5e70ef[m feat: 🚀 Sprint 1 - Estructura completa del proyecto
+[33m0ad289f[m 🎉 Initial commit: Project structure for Tennis Booking System
